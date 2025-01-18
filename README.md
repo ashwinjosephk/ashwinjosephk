@@ -19,6 +19,6 @@ Visit my [profile](https://ashwinjosephk.github.io/profile/)
 
 ---
 
-[profile]: https://ashwinjoseph95.github.io/profile/  
+[profile]: https://ashwinjosephk.github.io/profile/  
 [instagram]: https://instagram.com/ashwinjosephk  
 [linkedin]: https://www.linkedin.com/in/ashwinjoseph/
