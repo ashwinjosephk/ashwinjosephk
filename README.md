@@ -72,10 +72,10 @@ I'm a Research Associate at **Fraunhofer FHR** (High Frequency Physics & Radar T
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ashwinjosephk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" width="49%" alt="Ashwin's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=ashwinjosephk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" width="49%"  />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinjosephk&theme=tokyonight&hide_border=true" width="49%" alt="Ashwin's GitHub streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinjosephk&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="49%" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinjosephk&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="49%"/>
 
 </div>
 
