@@ -26,7 +26,6 @@ I'm a Research Associate at **Fraunhofer FHR** (High Frequency Physics & Radar T
 
 - 🔄 Pivoting toward **VLA / VLM roles** — following a structured roadmap anchored on the ETH Zürich robot learning course
 - ⚙️ Building out modern **C++** for robotics engineering, alongside my Python/PyTorch background
-- 📖 Reviewer for **ECCV 2026 Workshop DriveX**
 - 📡 Alumnus of the Fraunhofer FHR International Radar Summer School 2026 (SAR imaging, SSA, bistatic/passive radar)
 
 ### 🔬 Featured Work
@@ -58,7 +57,6 @@ I'm a Research Associate at **Fraunhofer FHR** (High Frequency Physics & Radar T
 
 ![Sionna RT](https://img.shields.io/badge/NVIDIA%20Sionna%20RT-black?style=for-the-badge)
 ![Mitsuba](https://img.shields.io/badge/Mitsuba-orange?style=for-the-badge)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![mmWave Radar](https://img.shields.io/badge/mmWave%20Radar-lightgrey?style=for-the-badge)
 
 **Platforms & Tools**
